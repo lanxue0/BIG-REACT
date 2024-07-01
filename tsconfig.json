@@ -13,10 +13,10 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
-    "experimentalDecorators": true,
-    "jsx": "react-jsx"
+    "experimentalDecorators": true
+    // "jsx": "react-jsx"
   },
-  "include": ["src", "types"],
+  //   "include": ["src", "types"],
   "paths": {
     "@/*": ["src/*"],
     "@libs/*": ["src/libs/*"]
